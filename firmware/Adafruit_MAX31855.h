@@ -14,7 +14,6 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
-#include "application.h"
 
 class Adafruit_MAX31855 {
  public:
